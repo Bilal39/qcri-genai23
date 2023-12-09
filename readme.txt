@@ -1,0 +1,2 @@
+
+This application features a ReactJS frontend coupled with a Flask-based backend. It incorporates a chatbot designed to facilitate queries specifically related to the QCRI use case in the Stanford Encyclopedia of Philosophy. To initiate the application, navigate to each respective folder and refer to the accompanying README files for detailed instructions on execution.
